@@ -1,6 +1,6 @@
 """Taller evaluable"""
 
-# pylint: disable=broad-exception-raised
+## pylint: disable=broad-exception-raised
 # pylint: disable=import-error
 
 # import mapreduce.run_mapreduce_job as run_mapreduce_job  # type: ignore
